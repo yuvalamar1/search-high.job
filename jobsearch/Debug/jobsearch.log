@@ -1,0 +1,28 @@
+﻿  Source.c
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(59,10): warning C4101: 'tmpline': unreferenced local variable
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(138,29): warning C4013: 'checkpassword' undefined; assuming extern returning int
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(206,14): warning C4013: 'getch' undefined; assuming extern returning int
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(228,10): warning C4101: 'tmpline': unreferenced local variable
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(355,1): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(372,1): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(373,1): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(438,1): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(508,1): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(557,40): warning C4101: 'cul4': unreferenced local variable
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(617,10): warning C4101: 'tmpline': unreferenced local variable
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(775,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(813,1): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(814,1): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(885,9): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(951,1): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(1146,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(1165,29): warning C4013: 'checkifidexist' undefined; assuming extern returning int
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(1175,29): warning C4013: 'checkpasswordtoid' undefined; assuming extern returning int
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(1201,10): warning C4101: 'string': unreferenced local variable
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(1210,10): warning C4101: 'namefile': unreferenced local variable
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(1380,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(1388,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(1502,10): warning C4101: 'retanswer': unreferenced local variable
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(1159): warning C4172: returning address of local variable or temporary: id
+C:\Users\PC\source\repos\jobsearch\jobsearch\Source.c(1652): warning C4172: returning address of local variable or temporary: answer
+  jobsearch.vcxproj -> C:\Users\PC\source\repos\jobsearch\Debug\jobsearch.exe
