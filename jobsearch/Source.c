@@ -438,7 +438,7 @@ void seealljobs()
         char* valid = getfield(tmp2, 4);
         if (strcmp(valid, "1") == 0)
         {
-            printf("%s", line);
+            //printf("%s", line);
             strcpy(empid, getfield(tmp, 1));
             strcpy(jobid, getfield(tmp3, 2));
             strcat(empid, "-");
@@ -508,7 +508,7 @@ void searchbypro()
         char* valid = getfield(tmp2, 4);
         if ((sec == choice)&& (strcmp(valid, "1") == 0))
         {
-            printf("%s", line);
+           // printf("%s", line);
             strcpy(empid, getfield(tmp, 1));
             strcpy(jobid, getfield(tmp3, 2));
             strcat(empid, "-");
@@ -951,7 +951,7 @@ void serachbyarea()
         char* valid = getfield(tmp2, 4);
         if (((sec == choice) || (sec == '0'))&& (strcmp(valid, "1") == 0))
         {
-            printf("%s", line);
+           // printf("%s", line);
             strcpy(empid, getfield(tmp, 1));
             strcpy(jobid, getfield(tmp3, 2));
             strcat(empid, "-");
